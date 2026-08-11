@@ -1,0 +1,15 @@
+{
+	"name": "df-sanjibazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4411e792-2959-40b7-aa19-4e7f70a5951e",
+		"tenantId": "ff9fbaee-c9ff-40b1-b0f5-910c680b3b0a"
+	}
+}
